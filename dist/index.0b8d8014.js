@@ -563,24 +563,28 @@ var _autoDefault = parcelHelpers.interopDefault(_auto);
 let colors = [
     {
         id: 1,
+        isHidden: false,
         r: 43,
         g: 43,
         b: 22
     },
     {
         id: 2,
+        isHidden: false,
         r: 222,
         g: 12,
         b: 78
     },
     {
         id: 3,
+        isHidden: true,
         r: 12,
         g: 65,
         b: 74
     },
     {
         id: 4,
+        isHidden: true,
         r: 1,
         g: 170,
         b: 221
